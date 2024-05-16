@@ -45,16 +45,19 @@ Este projeto é um aplicativo de cadastro de usuários, construído com Node.js,
    cd ../frontend
    npm install
 4. Configure o arquivo .env no diretório backend com suas variáveis de ambiente:
-  ```sh
+  ```env
   DB_PASSWORD=sua-senha
   DB_DATABASE=crud
+```
 5. Inicie o servidor back-end:
   ```sh
   cd ../api
   npm start
+```
 6. Inicie o front-end:
   ```sh
   cd ../frontend
   npm start
+```
 ### Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests para melhorar este projeto.
