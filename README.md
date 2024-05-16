@@ -1,5 +1,7 @@
 # CRUD Cadastrar Usuário
 
+![Descrição da Imagem](./example.interface.png)
+
 Este projeto é um aplicativo de cadastro de usuários, construído com Node.js, Express e React. A seguir, explicamos por que escolhemos essas tecnologias para desenvolver este projeto.
 
 ## Tecnologias Utilizadas
